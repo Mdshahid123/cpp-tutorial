@@ -29,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Desktop/c++ tutorial - Copy (2)/assignment-01",
-      "program": "c:/Users/HP/Desktop/c++ tutorial - Copy (2)/assignment-01/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

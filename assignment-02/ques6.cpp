@@ -1,4 +1,4 @@
-//wap the two intger value using call by refrence
+//swap the two intger value using call by refrence
 
 #include<iostream>
 using namespace std;
