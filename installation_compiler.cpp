@@ -1,4 +1,4 @@
-//for buiilding a software we should folloing like header file ,library,comiler and code editor
+//for buiilding a software we should have folloing like header file ,library,comiler and code editor
 
 //installation of mingw and code editor
 
